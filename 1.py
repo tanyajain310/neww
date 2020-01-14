@@ -1,4 +1,7 @@
-print("hell")
-print("yeah")
-print("no no")
-print("bulid kar")
+
+a = int(input("enter first number: "))
+b = int(input("enter second number: "))
+ 
+sum = a + b
+ 
+print("sum:", sum)
